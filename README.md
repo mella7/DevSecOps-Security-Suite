@@ -1,11 +1,13 @@
 # DevSecOps Security Suite
 
-This project was created by team MHAF as a part of our University project, where we're focusing on a secure DevSecOps deployment. 
-#MHAF: M = Med Ali Mellah, H = Hyba Ayeshi, A = Ala Eddine Largat, F = Fyras Mabrouki
+This project was done as a part of my University project, where we're focusing on a secure DevSecOps deployment. 
 
 ## Project Overview
 
 The DevSecOps Security Suite focuses on embedding security into every phase of the software development lifecycle. This project utilizes Terraform to set up and manage infrastructure on AWS, integrates multiple security tools into a Jenkins CI/CD pipeline, and ensures compliance and security through automated checks and balances.
+
+![image](https://github.com/user-attachments/assets/7204b978-f226-4d3f-a241-aae225f796ec)
+
 
 ### Key Features
 
